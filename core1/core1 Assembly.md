@@ -17,8 +17,8 @@ Before starting, make sure that you have all of the parts listed below. The chip
 | U3 | n/a | Not yet used |
 | VR0-3 | 10k Potentiometer x4 | Interaction!|
 | R1 | n/a | Not yet used |
-| R2 | 15k | Resistor (brown/green stripes) |
-| R3 | 8.2k | Resistor (grey/red stripes) |
+| R2 | 15k | Resistor (brown/green/black/red/brown stripes) |
+| R3 | 8.2k | Resistor (grey/red/black/brown/brown stripes) |
 | C1 | 1nF | Capacitor (marked 102) |
 | C2 | 470pF | Capacitor (marked 471) |
 | P1 | Power connector | apply 4.5v here |
