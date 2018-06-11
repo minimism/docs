@@ -27,8 +27,7 @@ Before starting, make sure that you have all of the parts listed below. The chip
 | - | 2 IC sockets | |
 | - | PCB | a double-sided Printed Circuit Board |
 
-You'll also need a soldering iron, some solder, a pair
-of wire cutters and a space to work in.
+You'll also need a soldering iron, some solder, a pair of wire cutters and a space to work in.
 
 ## Assembly
 
@@ -49,6 +48,8 @@ The general procedure with the assembly is to work in component-height order, so
 And that's it for assembly.
 
 ## Sound!
+
+The ATTiny85 comes pre-programmed with the **dr1.a** firmware (https://github.com/minimism/dr1a); a fairly simple drone synth capable of generating some quite nice sounds.
 
 1. Insert 3 AAA batteries into the battery holder;
 1. Connect the audio output to your audio device (e.g. a mixer);
