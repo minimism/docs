@@ -11,7 +11,7 @@ _These instructions are a work in progress. If they are unclear, or there are an
 Before starting, make sure that you have all of the parts listed below. The chips are not big fans of static electricity, so take care when handling them (they're quite robust in our experience, but take care nonetheless).
 
 | Label  | Part | Description |
-| ------------- | ------------- |
+| ------ | ---- | ----------- |
 | U1 | ATTiny85-20  | Main processor (pre-programmed as _dr1a_) |
 | U2 | MCP6002  | Dual Op-Amp |
 | U3 | n/a | Not yet used |
