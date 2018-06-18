@@ -6,6 +6,8 @@ Thanks for buying the WonkyStuff **core1** board. The **core1** is designed as a
 
 _These instructions are a work in progress. If they are unclear, or there are any mistakes, or you just want to say 'hello', please email us at info@wonkystuff.net, or message us via facebook or twitter._
 
+There is a basic requirement that your soldering skills are up to scratch (I'm sure they are). If you need a reminder, you could do worse than to take a look at this soldering tutorial over at adafruit.com: https://learn.adafruit.com/adafruit-guide-excellent-soldering/
+
 ## Parts List
 
 Before starting, make sure that you have all of the parts listed below. The chips are not big fans of static electricity, so take care when handling them (they're quite robust in our experience, but take care nonetheless).
@@ -39,13 +41,11 @@ The general procedure with the assembly is to work in component-height order, so
     1. Solder R2 and R3;
     1. Solder C1 and C2;
     1. Solder IC sockets into positions U1 and U2, taking care to match the notch in the socket with the symbol on the PCB.
-    1. Solder the power connector so that it protrudes over the edge of the PCB
+    1. Solder the power connector so that it protrudes over the edge of the PCB. It's very important that this is placed on the correct side of the PCB as the battery pack is already wired
 1. Turn over the PCB:
-    1. Solder J1 into place - take care that the pins go into the correct holes (and not into R1);
+    1. Solder J1 into place - take care that the pins go into the correct holes (and not into the hole for R1);
     2. Solder the four potentiometers into place (the large tabs may need a slight squeeze for them to go into the holes correctly). The tabs are there for mechanical support, don't forget to solder them!
-1. Turn the board over again and insert U1 and U2 into their respective sockets (the legs may need a little squeeze to make them line up).
-
-And that's it for assembly.
+1. That's pretty much it for assembly -- give the soldering a look over to check for bad connections, short circuits etc. then turn the board over again and insert U1 and U2 into their respective sockets (the legs may need a little squeeze to make them line up).
 
 ## Sound!
 
