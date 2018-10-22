@@ -64,7 +64,7 @@ In each case, the component body should more-or-less fit within its white outlin
     ![Step 6](step6.JPG)
 
 * Turn over the PCB:
-    ![Bottom](bottom.jpg)
+    ![Bottom](bottom.JPG)
     1. Now solder the IC socket for U1, taking care to match the notch in the socket with the symbol on the PCB (it doesn't _actually_ matter, but it makes things easier when you get around to inserting the IC later).
 
     1. Solder the power connector so that it overlaps the PCB. If in doubt, attach the battery pack to the connector before soldering and make sure that the red wire matches the `+` symbol on the PCB. If desired, the power connector can be connected to the top side of the board -- in that case, there is only one way that it can fit!
@@ -74,8 +74,8 @@ In each case, the component body should more-or-less fit within its white outlin
 That's it for assembly -- give the soldering a look over to check for bad connections, short circuits etc. then insert U1 and U2 into their respective sockets (the legs may need a little squeeze to make them line up) making sure that the indicator for pin 1 (either a notch, or an indented dot) matches the orientation of the socket/PCB.
 
 For reference, the PCB should now look something like this:
-![Top](top2.jpg)
-![Bottom](bottom2.jpg)
+![Top](top2.JPG)
+![Bottom](bottom2.JPG)
 
 ### Panel Design
 
