@@ -46,29 +46,29 @@ In each case, the component body should more-or-less fit within its white outlin
 * Position the PCB so that the _Rev.B_ text is uppermost:
 ![Top](top.jpg)
     1. Start with the resistors (R2, R3 and R4) taking care that they are placed correctly on the board. The legs of these should be bent at 90 degrees such that they line up with the holes in the PCB (the orientation of the resistors is not important).
-    ![Step 1](step1.jpg)
+    ![Step 1](step1.JPG)
 
     1. Next add the small capacitors (C1, C2, C3 and C4) taking care that they are positioned correctly on the PCB. The legs should line up easily with the holes in the PCB (again, the orientation of these components is not important).
-    ![Step 2](step2.jpg)
+    ![Step 2](step2.JPG)
 
     1. Now solder the IC socket for U2, taking care to match the notch in the socket with the symbol on the PCB (it doesn't _actually_ matter, but it makes things easier when you get around to inserting the IC later).
-    ![Step 3](step3.jpg)
+    ![Step 3](step3.JPG)
 
     1. Solder the electrolytic capacitor C5 onto the board -- make sure that it is inserted the right way round (The capacitor body usually indicates the negative pin with a stripe of `-`; the PCB indicates where the positive pin should be inserted).
-    ![Step 4](step4.jpg)
+    ![Step 4](step4.JPG)
 
     1. Solder the audio jack J1 onto the PCB.
-    ![Step 5](step5.jpg)
+    ![Step 5](step5.JPG)
 
     1. In turn, insert the four potentiometers into place (the large tabs may need a slight squeeze for them to go into the holes correctly). The big tabs are there for mechanical support, so don't forget to solder them as well.
-    ![Step 6](step6.jpg)
+    ![Step 6](step6.JPG)
 
 * Turn over the PCB:
     ![Bottom](bottom.jpg)
     1. Now solder the IC socket for U1, taking care to match the notch in the socket with the symbol on the PCB (it doesn't _actually_ matter, but it makes things easier when you get around to inserting the IC later).
 
     1. Solder the power connector so that it overlaps the PCB. If in doubt, attach the battery pack to the connector before soldering and make sure that the red wire matches the `+` symbol on the PCB. If desired, the power connector can be connected to the top side of the board -- in that case, there is only one way that it can fit!
-    ![Step 8](step8.jpg)
+    ![Step 8](step8.JPG)
 
 
 That's it for assembly -- give the soldering a look over to check for bad connections, short circuits etc. then insert U1 and U2 into their respective sockets (the legs may need a little squeeze to make them line up) making sure that the indicator for pin 1 (either a notch, or an indented dot) matches the orientation of the socket/PCB.
