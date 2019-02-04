@@ -31,37 +31,37 @@ nonetheless).
 
 | Label  | Part | Description |
 | ------ | ---- | ----------- |
-| P1  | Power connector | apply 4.5-5.5v here |
-| U1  | PT2399 | echo/delay processor |
-| C1  | 100nF | Capacitor (marked 104) |
-| C3  | 100nF | Capacitor (marked 104) |
-| C4  | 100nF | Capacitor (marked 104) |
-| C6  | 47n | Capacitor (marked 473) |
-| C7  | 47n | Capacitor (marked 473) |
-| C8  | 470pF | Capacitor (marked 471) |
-| C9  | 470pF | Capacitor (marked 471) |
 | R1  | 10k | Resistor (brown/black/black/red/brown stripes) |
 | R2  | 10k | Resistor (brown/black/black/red/brown stripes) |
 | R3  | 10k | Resistor (brown/black/black/red/brown stripes) |
 | R4  | 100k | Resistor (brown/black/black/orange/brown stripes) |
+| R5  | 2k2 | Resistor (red/red/black/brown/brown stripes) |
 | R6  | 10k | Resistor (brown/black/black/red/brown stripes) |
 | R7  | 10k | Resistor (brown/black/black/red/brown stripes) |
 | R8  | 10k | Resistor (brown/black/black/red/brown stripes) |
-| R10 | 10k | Resistor (brown/black/black/red/brown stripes) |
-| C10 | 4n7 | Capacitor (marked 472) |
-| C14 | 4n7 | Capacitor (marked 472) |
-| J1  | 3.5mm jack  | Audio inputput |
-| J2  | 3.5mm jack  | Audio Output |
-| R5  | 2k2 | Resistor (red/red/black/brown/brown stripes) |
 | R9  | 2k2 | Resistor (red/red/black/brown/brown stripes) |
-| C12 | 10n | Capacitor (marked 103) |
+| R10 | 10k | Resistor (brown/black/black/red/brown stripes) |
 | VR1 | 47k	Log Potentiometer | Delay time variation |
 | VR2 | 47k	Log Potentiometer | Output level control |
-| C5  | 47uF | 16V Aluminum electrolytic capacitor |
+| C1  | 100nF | Capacitor (marked 104) |
 | C2  | 100uF | 16V Aluminum electrolytic capacitor |
+| C3  | 100nF | Capacitor (marked 104) |
+| C4  | 100nF | Capacitor (marked 104) |
+| C5  | 47uF | 16V Aluminum electrolytic capacitor |
+| C6  | 47n | Capacitor (marked 473) |
+| C7  | 47n | Capacitor (marked 473) |
+| C8  | 470pF | Capacitor (marked 471) |
+| C9  | 470pF | Capacitor (marked 471) |
+| C10 | 4n7 | Capacitor (marked 472) |
 | C11 | 4.7uF | 16V Aluminum electrolytic capacitor |
+| C12 | 10n | Capacitor (marked 103) |
 | C13 | 10uF | 16V Aluminum electrolytic capacitor |
+| C14 | 4n7 | Capacitor (marked 472) |
+| U1  | PT2399 | echo/delay processor |
 | U2  | MCP6002 | Dual Op-Amp |
+| J1  | 3.5mm jack  | Audio inputput |
+| J2  | 3.5mm jack  | Audio Output |
+| P1  | Power connector | apply 4.5-5v here |
 | - | 2 IC sockets | |
 | - | PCB | a double-sided Printed Circuit Board |
 
