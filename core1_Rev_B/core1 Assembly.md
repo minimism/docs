@@ -71,9 +71,9 @@ In each case, the component body should more-or-less fit within its white outlin
     ![Step 8](step8.JPG)
 
 
-That's it for assembly -- give the soldering a look over to check for bad connections, short circuits etc. then insert U1 and U2 into their respective sockets (the legs may need a little squeeze to make them line up) making sure that the indicator for pin 1 (either a notch, or an indented dot) matches the orientation of the socket/PCB.
+That's it for assembly -- give the soldering a look over to check for bad connections, short circuits etc. then insert U1 and U2 into their respective sockets (the legs may need a little squeeze to make them line up) making sure that the indicator for pin 1 (_either a **notch**, or an **indented dot**_) matches the orientation of the socket/PCB.
 
-For reference, the PCB should now look something like this:
+For reference, the PCB should now look something like this (please take note of the orientation of U1 and U2!):
 ![Top](top2.JPG)
 ![Bottom](bottom2.JPG)
 
